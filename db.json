@@ -1,38 +1,37 @@
-
 {
-events: [
-        {
-          id: 598484,
-          category: "Recreational",
-          title: "Community Gardening",
-          description: "find your new feline friend.",
-          location: "Mew Town",
-          time: "12:00",
-          date: "Jan 25 2022",
-          petsAllowed: true,
-          organizer: "Kat Laydee",
-        },
-        {
-          id: 4445291,
-          category: "Animal wellfare",
-          title: "Cat adoption day",
-          description: "find your new feline friend.",
-          location: "Mew Town",
-          time: "12:00",
-          date: "Jan 25 2022",
-          petsAllowed: true,
-          organizer: "Kat Laydee",
-        },
-        {
-          id: 87545123,
-          category: "Enviormental",
-          title: "Beach Cleanup",
-          description: "find your new feline friend.",
-          location: "Mew Town",
-          time: "12:00",
-          date: "Jan 25 2022",
-          petsAllowed: true,
-          organizer: "Kat Laydee",
-        },
-      ],
+  "events": [
+    {
+      "id": 598484,
+      "category": "Recreational",
+      "title": "Community Gardening",
+      "description": "find your new feline friend.",
+      "location": "Mew Town",
+      "time": "12:00",
+      "date": "Jan 25 2022",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 4445291,
+      "category": "Animal wellfare",
+      "title": "Cat adoption day",
+      "description": "find your new feline friend.",
+      "location": "Mew Town",
+      "time": "12:00",
+      "date": "Jan 25 2022",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 87545123,
+      "category": "Enviormental",
+      "title": "Beach Cleanup",
+      "description": "find your new feline friend.",
+      "location": "Mew Town",
+      "time": "12:00",
+      "date": "Jan 25 2022",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    }
+  ]
 }
