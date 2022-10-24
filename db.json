@@ -2,9 +2,7 @@
 {
   "events": [
 {
-  "_id": {
-    "$oid": "6352ddb21a0a12a1c22fa4c6"
-  },
+  "id": 1231567,
   "category": "Recreational",
   "title": "Community Gardening",
   "description": "find your new feline friend.",
@@ -15,9 +13,7 @@
   "organizer": "Kat Laydee"
 },
     {
-  "_id": {
-    "$oid": "6352ddb21a0a12a1c22fa4c7"
-  },
+  "id":1312312,
   "category": "Animal wellfare",
   "title": "Cat adoption day",
   "description": "find your new feline friend.",
@@ -28,9 +24,7 @@
   "organizer": "Kat Laydee"
 },
 {
-  "_id": {
-    "$oid": "6352ddb21a0a12a1c22fa4c8"
-  },
+  "id": 123123,
   "category": "Enviormental",
   "title": "Beach Cleanup",
   "description": "find your new feline friend.",
